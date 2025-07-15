@@ -52,7 +52,7 @@ This is a simple yet stylish **Stop Watch web app** built using HTML, CSS, and J
 
 ## 📸 Screenshot
 
-> ![Stopwatch Preview](./screenshot.png)
+> ![Stopwatch Preview](Day-11-Stop-Watch/Preview.PNG)
 
 ---
 
